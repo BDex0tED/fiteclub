@@ -1,4 +1,4 @@
-# 🥊 Fight Club
+# 🥊 Fite Club
 
 A taste-driven content showdown.
 
